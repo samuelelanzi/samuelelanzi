@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @samuelelanzi
+- 👀 I’m interested in physics
+- 🌱 I’m currently learning physics at unibo
